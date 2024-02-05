@@ -15,7 +15,6 @@ from sklearn.preprocessing import LabelEncoder
 import openpyxl
 import s2m
 from s2m import main
-from main import place
 import requests
 import time
 
